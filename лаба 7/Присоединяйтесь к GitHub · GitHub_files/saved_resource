@@ -1,0 +1,2 @@
+/* PLEASE DO NOT COPY AND PASTE THIS CODE. */
+!function(){var t=document.createElement("script");t.setAttribute("ec-api-script", "true");t.type="text/javascript",t.async=!0,t.src="https://api.funcaptcha.com/cdn/fc/js/db789d54b682f05d1b13f0f17392f5efe2aee45a/standard/funcaptcha_api.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();
